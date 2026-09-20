@@ -8,7 +8,8 @@ current ExpressLRS release while staying within the KC 2.4 GHz allocation.
 
 It is published to satisfy the **GPLv3** obligation to provide the corresponding source for the KC
 firmware binaries distributed at
-<https://github.com/falconshop/elrs-auto-firmware> and by the falconshop ELRS updater tool.
+the falconshop ELRS updater tool and its releases
+(<https://github.com/falconshop/elrs-updater>).
 
 ## What changed vs. upstream 3.6.4
 
